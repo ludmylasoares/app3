@@ -1,28 +1,36 @@
-# App3
+# #App3 - Clone Instagram
+ Curso de Desenvolvimento WEB com ES6, TypeScript e Angular!
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
+<a href="http://app3.ludmylasoares.site">Demonstração</a></br>
 
-## Development server
+Adaptado por <a href="https//ludmylasoares.site">Ludmyla Soares</a> (Analista e Desenvolvedora de Sistemas)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Fonte: </br>
+Plataforma de cursos: <a href="https:/www.udemy.com">Udemy.com</a> </br>
 
-## Code scaffolding
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 9.0.1.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Servidor de desenvolvimento
 
-## Build
+Execute `ng serve` para um servidor dev. Navegue para `http: // localhost: 4200 /`. O aplicativo será recarregado automaticamente sem ter que localizar qualquer um dos arquivos de origem.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Andaimes de código
 
-## Running unit tests
+Execute `ng gerar componente nome-do-componente` para gerar um novo componente. Você também pode usar a diretiva ng ng | pipe | service | class | guard | interface | enum | module`.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Construir
 
-## Running end-to-end tests
+Execute `ng build` para criar o projeto. Os artefatos de construção serão armazenados no diretório `dist /`. Use o sinalizador `--prod` para uma construção de produção.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Executando testes de unidade
 
-## Further help
+Execute o `ng test` para executar os testes de unidade via [Karma] (https://karma-runner.github.io).
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-"# app3" 
+## Executando testes de ponta a ponta
+
+Execute `ng e2e` para executar os testes de ponta a ponta via [Transferidor] (http://www.protractortest.org/).
+
+## Ajuda adicional
+
+Para obter mais ajuda na CLI Angular, use `ng help` ou vá para o [README da CLI angular] (https://github.com/angular/angular-cli/blob/master/README.md).
+
